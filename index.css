@@ -1,0 +1,122 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    font-family: "Ubuntu", sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+
+.quiz-container {
+    width: 800px;
+    margin: auto;
+    background-color: #7fffd45e;
+    padding: 50px 70px;
+    position: relative;
+}
+
+.quiz-container .quiz-details {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 25px;
+    font-size: 18px;
+    background-color: #fff;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+
+.quiz-container .quiz-questions h2 {
+    font-size: 20px;
+    margin-top: 44px;
+    line-height: 1.5;
+    height: 40px
+}
+
+.quiz-container .quiz-answers {
+    padding: 30px 0;
+}
+
+.quiz-container .quiz-answers .answer {
+    padding: 0 8px;
+    background-color: #fff;
+    margin: 15px 0;
+    border-radius: 5px;
+    display: flex;
+}
+
+.quiz-container .quiz-answers input[type="radio"]:checked+label {
+    color: #767676;
+
+}
+
+.quiz-container .quiz-answers label {
+    margin-left: 10px;
+    padding: 13px 0;
+    flex: 1;
+}
+
+.quiz-container button {
+    width: 100%;
+    padding: 6px 0;
+    font-size: 20px;
+    border-radius: 5px;
+    border: none;
+    background-color: aquamarine;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+.quiz-container button:hover {
+    background-color: #0000007d;
+    color: aquamarine;
+}
+
+.quiz-container .count-down {
+    text-align: center;
+    font-size: 22px;
+    width: 10%;
+    margin: auto;
+    height: 40px;
+}
+
+.quiz-container .bullets {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+}
+
+.quiz-container .bullets span {
+    width: 25px;
+    height: 25px;
+    background-color: #ffff;
+    border-radius: 50%;
+}
+
+.make-it-colored {
+    background-color: #7fffd4 !important;
+}
+
+.quiz-container .bullets span.active {
+    background-color: aquamarine;
+}
+
+

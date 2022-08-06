@@ -1,0 +1,81 @@
+[{
+    "title":"Which of the following country won Football world Cup maximum times?"  ,
+    "answer-1":"Germany",
+    "answer-2":"Italy",
+    "answer-3":"Argentina",
+    "answer-4":"Brazil",
+    "true-answer":"Brazil"
+},
+{
+    "title":" Who among the following player scores highest number of goals in Footbal World Cup?"  ,
+    "answer-1":"Jurgen Klinsmann",
+    "answer-2":"Meradona",
+    "answer-3":"Miroslave Klose",
+    "answer-4":"Pele",
+    "true-answer":"Miroslave Klose"
+},
+{
+    "title":"Which of the following term is recognised as an early form of football by FIFA?"  ,
+    "answer-1":"kemari",
+    "answer-2":"Episkyros",
+    "answer-3":"Cuju",
+    "answer-4":"Inuit",
+    "true-answer":"Episkyros"
+},
+{
+    "title":"When was the first FIFA World Cup inaugurated?"  ,
+    "answer-1":"1930",
+    "answer-2":"1931",
+    "answer-3":"1932",
+    "answer-4":"1933",
+    "true-answer":"1930"
+},
+{
+    "title":"Which of following team do not play in stripes?"  ,
+    "answer-1":"Newcastle",
+    "answer-2":"Southampton",
+    "answer-3":"Tottenham Hotspur",
+    "answer-4":"Lincoln City",
+    "true-answer":"Tottenham Hotspur"
+},
+{
+    "title":"Which of the following country hosted the first Football World Cup?"  ,
+    "answer-1":"America",
+    "answer-2":"Argentina",
+    "answer-3":"Brazil",
+    "answer-4":"Uruguay",
+    "true-answer":"Brazil"
+},
+{
+    "title":"Which country became the first nation to win the Football World Cup?"  ,
+    "answer-1":"Uruguay",
+    "answer-2":"Brazil",
+    "answer-3":"Argentina",
+    "answer-4":"Belgium",
+    "true-answer":"Uruguay"
+},
+{
+    "title":"Who among the following scored the first goal in World Cup history?"  ,
+    "answer-1":"Johino",
+    "answer-2":"Bert Patenaude",
+    "answer-3":"Lucien Laurent",
+    "answer-4":"Pele",
+    "true-answer":"Lucien Laurent"
+},
+{
+    "title":"Who among the following achieved the first World Cup hat-trick?"  ,
+    "answer-1":"Pele",
+    "answer-2":"Bert Patenaude",
+    "answer-3":"Johino",
+    "answer-4":"Lucien Laurent",
+    "true-answer":"Bert Patenaude"
+},
+{
+    "title":"When was first official international football match was played?"  ,
+    "answer-1":"1929",
+    "answer-2":"1872",
+    "answer-3":"1902",
+    "answer-4":"1870",
+    "true-answer":"1872"
+}
+]
